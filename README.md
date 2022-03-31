@@ -1,4 +1,4 @@
-Your Friendly Neighborhood 🕸
+Your friendly neighborhood 🕸
 
 <!---
 shungo27/shungo27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
